@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [medium.com/@hazal.yilmazx](medium.com/@hazal.yilmazx)
 
-- 💬 Ask me about **Figma,HTML, CSS**
+- 💬 Ask me about **Figma,HTML, CSS, Javascript**
 
 - 📫 How to reach me **hazal.yilmazx@hotmail.com**
 
