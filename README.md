@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Kaizen Management Software**
 
-- 🌱 I’m currently learning **ReactJS, VueJS**
-
 - 📝 I regularly write articles on [medium.com/@hazal.yilmazx](medium.com/@hazal.yilmazx)
 
 - 💬 Ask me about **Figma,HTML, CSS, Javascript**
