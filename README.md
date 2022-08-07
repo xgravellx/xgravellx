@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Kaizen Management Software**
 
-- 📝 I regularly write articles on [medium.com/@hazal.yilmazx](medium.com/@hazal.yilmazx)
+- 📝 I regularly write articles on <a href="https:www.medium.com/@hazal.yilmazx](medium.com/@hazal.yilmazx)">
 
 - 💬 Ask me about **Figma,HTML, CSS, Javascript**
 
