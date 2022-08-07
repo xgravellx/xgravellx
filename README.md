@@ -77,10 +77,7 @@
   </a>
 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xgravellx&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="xgravellx" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="xgravellx" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgravellx&show_icons=true&locale=en&layout=compact" alt="xgravellx" /></p>
+<p><img align="center" width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="xgravellx" /></p>
 
 # xgravellx
