@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Kaizen Management Software**
 
-- 📝 I regularly write articles on <a href="https:www.medium.com/@hazal.yilmazx">medium.com/@hazal.yilmazx</a>
+- 📝 I regularly write articles on <a href="https:www.medium.com/@hazal.yilmazx" target=_blank>medium.com/@hazal.yilmazx</a>
 
 - 💬 Ask me about **Figma,HTML, CSS, Javascript**
 
 - 📫 How to reach me **hazal.yilmazx@hotmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/hazal-yilmaz-profile/](linkedin.com/in/hazal-yilmaz-profile/)
+- 📄 Know about my experiences <a href="https:www.linkedin.com/in/hazal-yilmaz-profile/" target=_blank>linkedin.com/in/hazal-yilmaz-profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
