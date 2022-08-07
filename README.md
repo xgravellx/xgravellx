@@ -77,7 +77,8 @@
   </a>
 
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgravellx&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xgravellx&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="xgravellx" /></p>
+(https://github-readme-stats.vercel.app/api?username=xgravellx&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgravellx&show_icons=true&locale=en&layout=compact" alt="xgravellx" /></p>
 
 # xgravellxw
