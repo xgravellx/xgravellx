@@ -79,7 +79,7 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xgravellx&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="xgravellx" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&bg_color=040f0f" alt="xgravellx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&bg_color=0D1117" alt="xgravellx" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgravellx&show_icons=true&locale=en&layout=compact" alt="xgravellx" /></p>
 
