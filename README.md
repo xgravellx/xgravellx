@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on <a href="https:www.medium.com/@hazal.yilmazx" target=_blank>medium.com/@hazal.yilmazx</a>
 
-- 💬 Ask me about **Figma,HTML, CSS, Javascript, React JS**
+- 💬 Ask me about **Figma, HTML, CSS, Javascript, React JS**
 
 - 📫 How to reach me **hazal.yilmazx@hotmail.com**
 
