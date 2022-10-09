@@ -69,7 +69,10 @@
    <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> 
   </a>
-
+   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="mui" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="xgravellx" /></p>
