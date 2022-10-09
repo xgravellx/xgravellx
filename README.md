@@ -66,6 +66,9 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon.svg" alt="vuejs" width="40" height="40"/> 
   </a>
+   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> 
+  </a>
 
 </p>
 
