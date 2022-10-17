@@ -73,7 +73,7 @@
     <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="mui" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="(https://user-images.githubusercontent.com/88984994/196106656-758e4864-2965-4edd-aece-6b2739091025.png" alt="typescript" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/88984994/196106656-758e4864-2965-4edd-aece-6b2739091025.png" alt="typescript" width="40" height="40"/> 
   </a>
   
 </p>
