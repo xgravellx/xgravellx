@@ -75,6 +75,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/88984994/196106656-758e4864-2965-4edd-aece-6b2739091025.png" alt="typescript" width="40" height="40"/> 
   </a>
+  <a href="https://formik.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2Fjaredpalmer%2Fformik&psig=AOvVaw2iqGYCGiqc_5PIoWg0RC49&ust=1666858570963000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIDwzpq6_foCFQAAAAAdAAAAABAD" alt="formik" width="40" height="40"/> 
+  </a>
   
 </p>
 
