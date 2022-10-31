@@ -78,6 +78,9 @@
   <a href="https://formik.org/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" alt="formik" width="40" height="40"/> 
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="40" height="40"/> 
+  </a>
   
 </p>
 
