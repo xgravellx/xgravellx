@@ -81,6 +81,9 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="40" height="40"/> 
   </a>
+  <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react-query" width="40" height="40"/> 
+  </a>
   
 </p>
 
