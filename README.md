@@ -6,8 +6,8 @@
 Javascript Development is a way of life for me.</h5>
 
 
-  - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">LinkedIn</a>
-  - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">Medium</a>
+  - <h5><a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">LinkedIn</a></h5>
+  - <h5><a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">Medium</a></h5>
 
 
 
