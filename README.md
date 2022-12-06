@@ -1,21 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hazal</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xgravellx&label=Profile%20views&color=0e75b6&style=flat" alt="xgravellx" /> </p>
 
 <h4>Hello, this is <b>Hazal Yilmaz.</b></h4>
 
 <h5>I'm a passionate <b>Frontend Developer</b> living in Turkey, working for Ixrone as the Founder. Web Technologies is very important to me.
 Javascript Development is a way of life for me.</h5>
+  - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazal-yilmaz-profile/" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on **Kaizen Management Software**
-
-- 📝 I regularly write articles on <a href="https:www.medium.com/@hazal.yilmazx" target=_blank>medium.com/@hazal.yilmazx</a>
-
-- 💬 Ask me about **Figma, HTML, CSS, Javascript, React JS**
-
-- 📫 How to reach me **hazal.yilmazx@hotmail.com**
-
-- 📄 Know about my experiences <a href="https:www.linkedin.com/in/hazal-yilmaz-profile/" target=_blank>linkedin.com/in/hazal-yilmaz-profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
