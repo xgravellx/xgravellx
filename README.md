@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xgravellx&label=Profile%20views&color=0e75b6&style=flat" alt="xgravellx" /> </p>
 
+Hello, this is <b>Hazal Yilmaz.</b>
 
 - 🔭 I’m currently working on **Kaizen Management Software**
 
