@@ -2,7 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xgravellx&label=Profile%20views&color=0e75b6&style=flat" alt="xgravellx" /> </p>
 
-Hello, this is <b>Hazal Yilmaz.</b>
+<h4>Hello, this is <b>Hazal Yilmaz.</b></h4>
+
+<h5>I'm a passionate <b>Frontend Developer</b> living in Turkey, working for Ixrone as the Founder. Web Technologies is very important to me.
+Javascript Development is a way of life for me.</h5>
 
 - 🔭 I’m currently working on **Kaizen Management Software**
 
