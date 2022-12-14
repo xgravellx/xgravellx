@@ -11,7 +11,7 @@ Javascript Development is a way of life for me.</p>
 
 
 <h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&border_color=323232&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="xgravellx" />
+/* <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgravellx&layout=compact&border_color=323232&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="xgravellx" />
 </h4>
-
+*/
 ### xgravellx
