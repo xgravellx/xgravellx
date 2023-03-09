@@ -2,8 +2,7 @@
 
 <h4>Hi, I'm <b>Hazal Yilmaz.</b></h4>
 
-<p>I'm a passionate <b>Frontend Developer</b> living in Turkey, working for Ixrone as the Founder. Web Technologies is very important to me.
-Javascript Development is a way of life for me.</p>
+<p>I'm a passionate <b>Frontend Developer</b> living in Turkey, working for Mahrek. Web Technologies is very important to me.</p>
 
   - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">LinkedIn</a>
   - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">Medium</a>
