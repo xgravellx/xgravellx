@@ -4,7 +4,4 @@
 
 <p>I'm a passionate <b>Frontend Developer</b> living in Turkey, working for Mahrek. Web Technologies is very important to me.</p>
 
-  - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">LinkedIn</a>
-  - <a href="https://linkedin.com/in/hazal-yilmaz-profile/" target="blank">Medium</a>
-
 ### xgravellx
